@@ -1,1 +1,3 @@
-[submodule "themes/butterfly"]        path = themes/butterfly        url = https://gitee.com/immyw/hexo-theme-butterfly.git 
+[submodule "themes/butterfly"]
+	path = themes/butterfly
+	url = https://gitee.com/immyw/hexo-theme-butterfly.git
